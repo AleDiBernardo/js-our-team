@@ -6,6 +6,7 @@
 // Barbara Ramos	Graphic Designer	    barbara-ramos-graphic-designer.jpg
 
 
+//  MILESTONE 0
 const team = [
     {
         name: "Wayne Barnett",
@@ -40,4 +41,4 @@ const team = [
 
 ]
 
-console.log(team);
+printTeam(team);
