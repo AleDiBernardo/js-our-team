@@ -12,8 +12,6 @@ const audio = document.getElementById("audio");
 
 audio.play();
 
-// setInterval(() => {
-// }, 15000);
 
 //  MILESTONE 0
 const team = [
