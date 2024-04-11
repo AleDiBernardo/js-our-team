@@ -12,34 +12,34 @@ const rowElem = document.getElementById("cardRowContainer");
 //  MILESTONE 0
 const team = [
     {
-        name: "Wayne Barnett",
+        name: "Peppa Pig",
         role: "Founder & CEO",
-        picture: "../img/wayne-barnett-founder-ceo.jpg"
+        picture: "../img/peppa.png"
     },
     {
-        name: "Angela Caroll",
-        role: "Chief Editor",
-        picture: "../img/angela-caroll-chief-editor.jpg"
+        name: "George Pig",
+        role: "Chef",
+        picture: "../img/george.png"
     },
     {
-        name: "Walter Gordon",
-        role: "Office Manager",
-        picture: "../img/walter-gordon-office-manager.jpg"
+        name: "Daddy Pig",
+        role: "Lumberjack",
+        picture: "../img/daddy.png"
     },
     {
-        name: "Angela Lopez",
-        role: "Social Media Manager",
-        picture: "../img/angela-lopez-social-media-manager.jpg"
+        name: "Suzy Sheep",
+        role: "Co-Founder",
+        picture: "../img/susy.png"
     },
     {
-        name: "Scott Estrada",
+        name: "Mamma Pig",
         role: "Developer",
-        picture: "../img/scott-estrada-developer.jpg"
+        picture: "../img/mamma.webp"
     },
     {
-        name: "Barbara Ramos",
-        role: "Graphic Designer",
-        picture: "../img/barbara-ramos-graphic-designer.jpg"
+        name: "T-rex",
+        role: "Powerfull T-rex",
+        picture: "../img/dino.png"
     },
 
 ]
