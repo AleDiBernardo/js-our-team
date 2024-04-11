@@ -31,8 +31,8 @@ const printTeamToDOM = (teamToPrint, positionElem) => {
         positionElem.innerHTML += `
             <li>Name: ${element.name}</li>
             <li>Role: ${element.role}</li>
-            <li>Picture: ${element.picture}</li>
+            <li><img src="${element.picture}" alt=""</li>
             <br>
         `
-    });
+    });          // BONUS 1 ^
 }
