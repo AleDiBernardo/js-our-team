@@ -7,6 +7,7 @@
 
 
 const teamListElem = document.getElementById("teamList");
+const rowElem = document.getElementById("cardRowContainer");
 
 //  MILESTONE 0
 const team = [
@@ -45,4 +46,6 @@ const team = [
 
 printTeam(team);
 
-printTeamToDOM(team, teamListElem);
+// printTeamToDOM(team, teamListElem);
+
+makeCard(team,rowElem)
