@@ -9,9 +9,7 @@
 const teamListElem = document.getElementById("teamList");
 const rowElem = document.getElementById("cardRowContainer");
 const audio = document.getElementById("audio");
-
-
-audio.autoplay = true;
+audio.play();
 
 //  MILESTONE 0
 const team = [
