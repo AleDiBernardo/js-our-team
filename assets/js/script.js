@@ -6,6 +6,8 @@
 // Barbara Ramos	Graphic Designer	    barbara-ramos-graphic-designer.jpg
 
 
+const teamListElem = document.getElementById("teamList");
+
 //  MILESTONE 0
 const team = [
     {
@@ -42,3 +44,5 @@ const team = [
 ]
 
 printTeam(team);
+
+printTeamToDOM(team, teamListElem);
